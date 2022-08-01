@@ -12,7 +12,7 @@ Mit der sort_values() Funktion wird aus der vordefinierte Dataframe ratings, die
 ## Funktionsausführung
 
 Auf der Notebook 1-Recommender_Systems.ipynb klicken.
-Restart der Kernel und Run das gesamte Notebook, damit alle Bibliotheken aufgeladen werden und somit die Funktion describe() ausgeführt wird.
+Restart der Kernel und Run das gesamte Notebook, damit alle Bibliotheken aufgeladen werden und somit die Funktion sort_values() ausgeführt wird.
 
 Mithilfe das folgende Badge kann das Programm in mybinder aufgerufen werden.
 
