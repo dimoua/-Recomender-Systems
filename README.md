@@ -7,6 +7,8 @@ Die Requirement enthält die verschiedene Klasse, die für die Ausführung der K
 
 ## Beispiel der Übungsaufgabe
 
+Mit der sort_values() Funktion wird aus der vordefinierte Dataframe ratings, die am häufigsten bewerteten Filme dargestellt.
+
 ## Funktionsausführung
 
 Auf der Notebook 1-Recommender_Systems.ipynb klicken.
